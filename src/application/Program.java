@@ -36,6 +36,7 @@ public class Program {
 		} else {
 			System.out.println("Larger area: Y");
 		}
+		System.out.println("Bom dia teste GIT");
 		sc.close();
 	}
 }
